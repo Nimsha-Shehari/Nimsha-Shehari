@@ -7,19 +7,15 @@ I'm an undergraduate at WUSL pursuing a B.Sc.(joint major)Degree MMST & CMIS
 ## About Me
 - 🌱 I’m currently learning new statistical technologies.
 - 👯 I’m looking to collaborate on exciting projects.
-- 📫 How to reach me: [GitHub](https://github.com/your_github_handle) | [Linkein](linkedin.com/in/nimsha-shehari)
+- 📫 How to reach me: *nimshakulathunga@gmail.com* [GitHub](https://github.com/your_github_handle) | [Linkein](linkedin.com/in/nimsha-shehari)
 
-<!--
-**Nimsha-Shehari/Nimsha-Shehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="Codingcat" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishka-munasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nimsha-shehari" /> </p>
+
+
+
+
+
+
