@@ -1,4 +1,14 @@
-## Hi there 👋
+
+# Hi 👋, I'm Nimsha Shehari
+
+![Profile Graphic]([https://www.pexels.com/video/people-in-business-ending-a-meeting-with-a-shake-hand-3209211/]
+
+I'm a developer and an undergraduate at WUSL.
+
+## About Me
+- 🌱 I’m currently learning new technologies.
+- 👯 I’m looking to collaborate on exciting projects.
+- 📫 How to reach me: [Twitter]([GitHub](https://github.com/your_github_handle)
 
 <!--
 **Nimsha-Shehari/Nimsha-Shehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
