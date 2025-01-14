@@ -1,12 +1,11 @@
 
 # Hi 👋, I'm Nimsha Shehari
 
-## Demo Video <iframe width="560" height="315" src="https://www.youtube.com/embed/YourVideoID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I'm a developer and an undergraduate at WUSL.
+I'm an undergraduate at WUSL pursuing a B.Sc.(joint major)Degree MMST & CMIS
 
 ## About Me
-- 🌱 I’m currently learning new technologies.
+- 🌱 I’m currently learning new statistical technologies.
 - 👯 I’m looking to collaborate on exciting projects.
 - 📫 How to reach me: [GitHub](https://github.com/your_github_handle) | [Linkein](linkedin.com/in/nimsha-shehari)
 
