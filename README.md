@@ -1,16 +1,38 @@
 # Hi 👋, I'm Nimsha Shehari
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-I'm an undergraduate at WUSL pursuing a B.Sc.(joint major) Degree MMST & CMIS
+> 📊 Data & Business Analyst in training | WUSL | B.Sc. MMST & CMIS
+> Turning raw data into decisions that matter.
 
-## About Me
+---
 
-- 🌱 I'm currently learning new statistical technologies.
-- 👯 I'm looking to collaborate on exciting projects.
-- 📫 How to reach me: nimshakulathunga@gmail.com | [LinkedIn](https://linkedin.com/in/nimsha-shehari)
+## 🧑‍💻 About Me
 
+- 🌱 Currently mastering statistical technologies and data visualisation tools.
+- 👯 Looking to collaborate on exciting data-driven and business analytics projects.
+- 🎯 Passionate about transforming complex datasets into actionable business insights.
+- 📚 Graduand at Wayamba University of Sri Lanka (WUSL).
 
+---
+
+## 🛠 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+## 📫 Reach Me
+
+📧 nimshakulathunga@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/nimsha-shehari)
 
 
 
