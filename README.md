@@ -2,7 +2,8 @@
 
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-> 📊 Data & Business Analyst in training | Wayamba University of Sri Lanka | B.Sc. (Joint Major) Degree in Mathematics, Mathematical Modelling & Statistics and Computing & Information Systems 
+> 📊 Data & Business Analyst in training | Wayamba University of Sri Lanka | B.Sc. (Joint Major) Degree in Mathematics, Mathematical Modelling & Statistics and Computing & Information Systems
+
 > Turning raw data into decisions that matter.
 
 ---
